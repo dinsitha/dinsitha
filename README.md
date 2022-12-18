@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @a
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- 👋 Hi, I’m @dinsitha
+- 👀 I’m interested in Lua
+- 🌱 I’m currently learning VB.NET
+- 💞️ I’m looking to collaborate on Visual Basic
+- 📫 How to reach me Email me on ranuka.dinsitha@gmail.com
 
 
 
